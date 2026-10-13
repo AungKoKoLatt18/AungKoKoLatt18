@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=210&section=header&text=AUNG%20KO%20KO%20LATT&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Backend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=210&section=header&text=AUNG%20KO%20KO%20LATT&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Student%20-%20Backend%20and%20Full-Stack%20Developer&descSize=18&descAlignY=58" alt="header" />
 </p>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Aung+Ko+Ko+Latt;3rd+Year+Computer+Engineering+%40+Karab%C3%BCk+University;Backend+%26+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js+%7C+C;Passionate+about+Databases+%26+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I+am+Aung+Ko+Ko+Latt;3rd+Year+Computer+Engineering+at+Karabuk+University;Backend+and+Full-Stack+Developer;Java+-+Spring+Boot+-+Python+-+Node.js+-+C;Passionate+about+Databases+and+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
