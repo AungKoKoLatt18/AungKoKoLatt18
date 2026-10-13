@@ -18,7 +18,7 @@
 
 ## 🌟 About Me
 
-- 🎓 3rd Year Computer Engineering student at **Karabük University**
+- 🎓 4th Year Computer Engineering student at **Karabük University**
 - 💻 Skilled in **C, Java, JavaScript, Node.js, MySQL, Python**
 - 🚀 Interested in **Backend Development** and **Full-Stack** projects
 - 🌱 Currently building with **Java + Spring Boot** and REST APIs
