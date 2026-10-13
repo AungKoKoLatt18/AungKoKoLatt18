@@ -5,7 +5,7 @@
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I+am+Aung+Ko+Ko+Latt;3rd+Year+Computer+Engineering+at+Karabuk+University;Backend+and+Full-Stack+Developer;Java+-+Spring+Boot+-+Python+-+Node.js+-+C;Passionate+about+Databases+and+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Hi+there%2C+I+am+Aung+Ko+Ko+Latt;3rd+Year+Computer+Engineering+Student;Backend+and+Full-Stack+Developer;Java+-+Spring+Boot+-+Python+-+Node.js+-+C;Passionate+about+Databases+and+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
